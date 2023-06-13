@@ -7,10 +7,12 @@ If you're new to lua;
   
 2. Linux(Debian) Users:
   All our exercises were done with lua 5.3, you can easily install lua 5.3 or any later version with 
+  
   `sudo apt install lua5.3`
+  
   OR follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
   
- >> For any other Linux Distro, follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
+ For any other Linux Distro, follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
 
 3. Windows Users:
    Overall, Installing lua ( > 5.3) on windows, is the most tricky, but if you follow up the tutorials keenly, it won't be a drag! [Lua Windows](https://gist.github.com/Egor-Skriptunoff/cb952f7eaf39b7b1bf739b818ece87cd)
@@ -18,7 +20,8 @@ If you're new to lua;
 4. For MacOS Users:
    
 Take Lua 5.3 as example:
-Open your Terminal.app
+
+Open your Terminal app
 
 `wget http://www.lua.org/work/lua-5.3.0-work3.tar.gz`
 
