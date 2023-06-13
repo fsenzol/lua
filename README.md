@@ -23,18 +23,19 @@ Take Lua 5.3 as example:
 
 Open your Terminal app
 
-`wget http://www.lua.org/work/lua-5.3.0-work3.tar.gz`
+`wget http://www.lua.org/ftp/lua-5.4.6.tar.gz`
 
-`tar xvzf lua-5.3.0-work3.tar.gz`
+`tar xvzf lua-5.4.6.tar.gz`
 
-`cd lua-5.3.0-work3/src`
+`cd lua-5.4.6/src`
 
 make macosx(I believe you have Xcode installed)
 
-After that, you can see 'lua' binary under current dir.
+After that, you can see 'lua' binaries under the current dir.
 
-`sudo cp lua /usr/bin/lua`
+`sudo cp .* /usr/bin/lua`
+`lua -v` --> Lua Version
 
-Now you can enter lua to have a try. :)
+Now you can run our codes have fun. :)
 
  
