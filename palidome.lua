@@ -9,4 +9,4 @@ local function isPalidome(str)
         end
     end
 
-io.write(isPalidome("madam")) -- true
+print(isPalidome("madam")) -- true
