@@ -11,6 +11,6 @@ local function factorial(n)
 end
 
 io.write(factorial(3)) --> 6 
-
+-- for arguments, io.write(factorial(arg[1])) <--> lua factorial.lua 3 --> 6 
 
  
