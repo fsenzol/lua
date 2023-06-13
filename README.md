@@ -34,6 +34,7 @@ make macosx(I believe you have Xcode installed)
 After that, you can see 'lua' binaries under the current dir.
 
 `sudo cp .* /usr/bin/lua`
+
 `lua -v` --> Lua Version
 
 Now you can run our codes have fun. :)
