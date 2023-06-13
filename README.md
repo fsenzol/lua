@@ -1,5 +1,5 @@
-# lua
-An ongoing complete list of all lua exercises, in the official Lua Documentation... Not yet complete tho! :)
+# LUA
+An ongoing complete list of solutions, all lua exercises in the official Lua Documentation... Not yet complete tho! :)
 If you're new to lua;
 1. Android Users: 
   You can use an online lua compiler eg  [Online Lua Compiler](https://www.tutorialspoint.com/execute_lua_online.php) OR Use Termux(recommended).
