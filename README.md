@@ -6,7 +6,9 @@ If you're new to lua;
   You can download termux from [F-droid](https://f-droid.org/en/packages/com.termux/) or their official [Github Page](https://github.com/termux/termux-app/releases)
   
 2. Linux(Debian) Users:
-  All our exercises were done with lua 5.3, you can easily install lua 5.3 or any later version with `sudo apt install lua5.3` or follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
+  All our exercises were done with lua 5.3, you can easily install lua 5.3 or any later version with 
+  `sudo apt install lua5.3`
+  OR follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
   
  >> For any other Linux Distro, follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
 
@@ -16,11 +18,13 @@ If you're new to lua;
 4. For MacOS Users:
    
 Take Lua 5.3 as example:
+Open your Terminal.app
 
->>   Open your Terminal.app
->>  `wget http://www.lua.org/work/lua-5.3.0-work3.tar.gz`
->>  `tar xvzf lua-5.3.0-work3.tar.gz`
->>  `cd lua-5.3.0-work3/src`
+`wget http://www.lua.org/work/lua-5.3.0-work3.tar.gz`
+
+`tar xvzf lua-5.3.0-work3.tar.gz`
+
+`cd lua-5.3.0-work3/src`
 
 make macosx(I believe you have Xcode installed)
 
