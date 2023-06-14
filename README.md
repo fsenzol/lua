@@ -10,7 +10,7 @@ An ongoing complete list of solutions, all lua exercises in the official Lua Doc
 2. Linux(Debian) Users:
   All our exercises were done with lua 5.3, you can easily install lua 5.3 or any later version with 
   
-        `sudo apt install lua5.3`
+        sudo apt install lua5.3
   
   OR follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
   
@@ -25,7 +25,7 @@ Take Lua 5.3 as example:
 
 Open your Terminal app
 
-      `wget http://www.lua.org/ftp/lua-5.4.6.tar.gz`
+      wget http://www.lua.org/ftp/lua-5.4.6.tar.gz
 
       `tar xvzf lua-5.4.6.tar.gz`
 
