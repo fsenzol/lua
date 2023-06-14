@@ -1,4 +1,4 @@
--- Checks if a word is palindrome!
+-- Checks if a word is palindrome
 
 local function isPalindrome(str)
     local str1 = str:gsub('[%p%s]',''):lower() -- removes any punctuations or whitespaces
