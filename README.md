@@ -12,9 +12,9 @@ An ongoing complete list of solutions, all lua exercises in the official Lua Doc
   
         sudo apt install lua5.3
   
-  OR follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
+   OR follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
   
- For any other Linux Distro, follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
+   For any other Linux Distro, follow this [Guide](https://www.tecmint.com/install-lua-in-centos-ubuntu-linux/)
 
 3. Windows Users:
    Overall, Installing lua ( > 5.3) on windows, is the most tricky, but if you follow up the tutorials keenly, it won't be a drag! [Lua Windows](https://gist.github.com/Egor-Skriptunoff/cb952f7eaf39b7b1bf739b818ece87cd)
@@ -37,11 +37,13 @@ make macosx(I believe you have Xcode installed)
 
 After that, you can see 'lua' binaries under the current dir.
 
-      `sudo mkdir /usr/bin/lua`
+      sudo mkdir /usr/bin/lua
+      
 
-      `sudo cp .* /usr/bin/lua`
+      sudo cp .* /usr/bin/lua
+      
 
-      `lua -v` --> Lua Version
+      lua -v --> Lua Version
 
 Now you can run our codes have fun. :)
 
