@@ -11,4 +11,4 @@ end
 local counter = counter()
 print(counter()) --> 1
 counter()
-print(counter()) --> 3
+print(counter()) --> 3 
