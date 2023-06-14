@@ -26,6 +26,7 @@ Take Lua 5.3 as example:
 Open your Terminal app
 
       wget http://www.lua.org/ftp/lua-5.4.6.tar.gz
+      
 
       `tar xvzf lua-5.4.6.tar.gz`
 
