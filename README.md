@@ -25,11 +25,13 @@ Take Lua 5.3 as example:
 
 Open your Terminal app
 
-      wget http://www.lua.org/ftp/lua-5.4.6.tar.gz
+    wget http://www.lua.org/ftp/lua-5.4.6.tar.gz      
+    
 
-      `tar xvzf lua-5.4.6.tar.gz`
+    tar xvzf lua-5.4.6.tar.gz
+    
 
-      `cd lua-5.4.6/src`
+    cd lua-5.4.6/src
 
 make macosx(I believe you have Xcode installed)
 
