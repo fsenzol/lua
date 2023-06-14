@@ -16,4 +16,4 @@ local function dec2bin(bin)
     return result | 0  -- Converting it to an integer
 end
 
-print(dec2bin(1111))
+print(dec2bin(1111))  --> 15
