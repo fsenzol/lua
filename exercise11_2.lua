@@ -1,6 +1,6 @@
 -- Exercise 11.2
 
--- You need to run it on a shell, because it requires arguments
+-- You need to run it on a shell, because it requires arguments.
 -- lua exercise11_2.lua <file to sort> <rejected word list> <first n-entries to display>
 -- lua exercise11_2.lua words.txt reject.txt 4
 
