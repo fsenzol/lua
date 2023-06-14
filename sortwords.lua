@@ -1,3 +1,5 @@
+   -- A simple program, to sort words in a file, with preference to the highest occurring words!
+
     local sort = {}
     local words = {}
     local file = io.open(assert(arg[1], "Invalid Format....Format: sortwords.lua <file> <number of entries>"), "r")
