@@ -1,4 +1,4 @@
-   -- A simple program, to sort words in a file, with preference to the highest occurring words!
+   -- A simple program, to sort words in a file, with preference to the highest occurring words
 
     local sort = {}
     local words = {}
