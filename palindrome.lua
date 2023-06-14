@@ -5,8 +5,17 @@ local function isPalindrome(str)
         if string.reverse(str1) == str1 then 
             return true
         else 
-            return false
+            local text = {}
+                for i = 1, #str1 do
+                    text[#text + 1] = string.sub(str1, -i,-i)
+                end
+                text = table.concat(text)
+                if(str1 == text ) then
+                    return true
+                else
+                    return false
+                 end
         end
     end
 
-print(isPalidome("madam")) -- true
+print(isPalindrome("Sit on a potato pan, Otis.")) -- true
