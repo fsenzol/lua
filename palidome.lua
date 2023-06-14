@@ -1,4 +1,4 @@
--- Checks if a word is palidome
+-- Checks if a word is palidome!
 
 local function isPalidome(str)
     local str1 = str:gsub('[%p%s]','') -- removes any punctuations or whitespaces
