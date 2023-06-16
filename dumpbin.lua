@@ -1,4 +1,6 @@
 -- A program to display contents of a memory dump, in plain text, not a memory dumper itself
+-- usage -> lua dumpbin.lua <absolute path to dumped memory file in binarry>
+-- example -> lua dumpbin.lua binarydata.bin
 
 local function dec2bin(bin, counter)
     counter = counter or (#tostring(bin) - 1)
