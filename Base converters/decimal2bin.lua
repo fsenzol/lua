@@ -1,4 +1,4 @@
--- A function to convert any binary number, to its decimal equivalence (not recursively)
+-- A function to convert any binary number, to its decimal equivalence (not recursively) :)
 
 
 local function dec2bin(bin)
