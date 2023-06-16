@@ -1,4 +1,5 @@
-
+-- A program to convert binary data/numbers to hexadecimal in lua :) obviously
+-- Usage: print(bin2hex(1111)) --> 15 :)
 local function bin2hex(bin)
     bin = tostring(bin)
     local result = ""
