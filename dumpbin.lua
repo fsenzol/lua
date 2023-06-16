@@ -1,3 +1,5 @@
+-- A program to display contents of a memory dump, in plain text, not a memory dumper itself
+
 local function dec2bin(bin, counter)
     counter = counter or (#tostring(bin) - 1)
         if bin == 0 or bin == 1 then
