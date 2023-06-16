@@ -8,7 +8,13 @@ local function counter()
         end
 end
 
-local counter = counter()
-print(counter()) --> 1
-counter()
-print(counter()) --> 3 
+local instance1 = counter()
+local instance2 = counter()
+local instance3 = counter()
+
+print( instance1() )
+print( instance1() )
+print( instance2() )
+print( instance2() )
+print( instance3() )
+print( instance2() )
